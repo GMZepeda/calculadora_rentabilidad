@@ -22,7 +22,8 @@ if st.button("Calcular"):
     
     # Enviamos los datos al "Cerebro" (FastAPI)
     try:
-        respuesta = requests.post("http://127.0.0.1:8000/calcular", json=datos_para_api)
+        respuesta = requests.post("https://gmzepeda-api-calculadora.hf.space/calcular", json=datos_para_api)
+        
         
         # LA FLECHA DE VUELTA: Recibimos el resultado y lo mostramos
         if respuesta.status_code == 200:
