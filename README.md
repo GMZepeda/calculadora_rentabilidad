@@ -1,4 +1,4 @@
-# Calculadora de Rentabilidad (Proyecto de Arquitectura Profesional)
+# Calculadora de Rentabilidad
 
 [Prueba la aplicación en vivo aquí](https://calculadorarentabilidad-k8esktq2vjj8epopw2nces.streamlit.app/)
 
