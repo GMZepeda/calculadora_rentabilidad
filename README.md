@@ -21,4 +21,4 @@ Para replicar de forma idéntica cómo se trabaja en un entorno corporativo real
 ![Diagrama de la Arquitectura](diagrama.png)
 
 ## Aprendizajes del Proyecto
-Este desarrollo permitió consolidar una arquitectura de servicios separados que se comunican entre sí de forma asíncrona en la nube [8, 13]. El valor principal radica en la aplicación del ciclo de vida completo del producto: desde el versionado del código hasta el despliegue de componentes independientes en internet para que cualquier usuario final pueda consumirlos sin depender de un entorno de desarrollo local.
+Este desarrollo permitió consolidar una arquitectura de servicios separados que se comunican entre sí de forma asíncrona en la nube. El valor principal radica en la aplicación del ciclo de vida completo del producto: desde el versionado del código hasta el despliegue de componentes independientes en internet para que cualquier usuario final pueda consumirlos sin depender de un entorno de desarrollo local.
